@@ -36,5 +36,3 @@ for i in range (200):
     setheading(i * 137.508)
     pendown()
     stamp()
-
-done()
